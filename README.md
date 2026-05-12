@@ -27,7 +27,7 @@
 
 > **Can a machine figure out what type of food a restaurant serves — just from numbers?**
 
-This project builds a **Machine Learning classification model** that predicts a restaurant's **cuisine type** based on its operational features like cost, votes, city, and available services — no menu needed! 🍽️
+This project builds a **Machine Learning classification model** that predicts a restaurant's **cuisine type** based on its operational features like cost, votes, city, and available services — no menu needed!  🍽️
 
 ---
 
